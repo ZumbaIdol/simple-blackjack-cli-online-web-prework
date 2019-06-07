@@ -43,6 +43,8 @@ def invalid_command
   #prompt_user
 end
 
+invalid_command = "Please enter a valid command"
+
 def hit?(number)
   prompt_user 
   user_input
