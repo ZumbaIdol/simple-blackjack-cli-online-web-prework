@@ -40,7 +40,7 @@ def initial_round
 
 def invalid_command
   puts "Please enter a valid command"
-  prompt_user
+  #prompt_user
 end
 
 def hit?(number)
